@@ -7,4 +7,5 @@ Will find all the important links and the gsheets here
 4. Github https://github.com/Analyticsavenue
 6. Interview Questions update https://docs.google.com/spreadsheets/d/1uOip9YtoHQqbtzjkBIVhOYHSN81r9_QtPzf4SESUde8/edit#gid=0
 7. Task sheet https://docs.google.com/spreadsheets/d/1_Or1OiGHEMZp4i865tcqnFhQr5K3wH8uB2LwRgLQFz4/edit#gid=0
+8. SQL Cheat sheet -  https://docs.google.com/spreadsheets/d/1XEuErRpR0sObS103P95Wq1MBWwM41YssyaegyZICMD4/edit?usp=sharing
 
