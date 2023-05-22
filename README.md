@@ -1,2 +1,9 @@
 # Important-Links
 Will find all the important links and the gsheets here
+
+1. Tech boss Mega Internship program - AD 1 https://www.instagram.com/subu_datascientist/
+2. My Guest lectures https://www.instagram.com/stories/highlights/18013937851504310/
+3. My linkedin https://www.linkedin.com/in/subramani-arumugam-14100b169/
+4. Task sheet https://docs.google.com/spreadsheets/d/1_Or1OiGHEMZp4i865tcqnFhQr5K3wH8uB2LwRgLQFz4/edit#gid=0
+5. Github https://github.com/Analyticsavenue
+
